@@ -1,2 +1,3 @@
-# Profile-Resource
-Profile Resource
+# Profile Resource
+
+Hanya berisi file photo & cover profile
